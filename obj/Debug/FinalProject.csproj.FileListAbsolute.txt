@@ -1,0 +1,10 @@
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.EmployeeForm.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Justin Mangan\Desktop\Spring2018\C#_TFS\CIS150\ManganJ-Projects\FinalProject\FinalProject\obj\Debug\FinalProject.HelpForm.resources
